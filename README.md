@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Perkenalkan saya Meutia Shafira Ramadhani<br>
+ini pertama kali saya menggunakan GitHub
 <!--
 **mute-pro/mute-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
